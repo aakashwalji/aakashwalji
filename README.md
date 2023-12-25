@@ -1,6 +1,6 @@
 
 
-## Hi there!
+# Hi there!
 
 Welcome to my GitHub repository! I'm passionate about web development and on a journey to become a MERN stack developer. Here, you'll find a collection of projects and code snippets showcasing my skills in HTML, CSS, and JavaScript, setting the stage for mastering the MERN (MongoDB, Express.js, React, Node.js) stack.
 
@@ -18,7 +18,7 @@ Dive into the world of strategic choices with my Rock Paper Scissors game projec
 
 Explore the basics of e-commerce with my Amazon Clone, crafted using only HTML and CSS. This simplified rendition brings the essence of Amazon's layout to your browser. The HTML structure provides a foundation for displaying items, while CSS styling ensures a clean and visually appealing user interface. Although lacking advanced functionalities, this project serves as a starting point for understanding the fundamental building blocks of an e-commerce website. Immerse yourself in the familiar look and feel of Amazon as you delve into the world of basic web development. Happy shopping!
 
-...
+*Many more to come...*
 
 ## Learning Path
 
