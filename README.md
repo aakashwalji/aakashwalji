@@ -50,7 +50,7 @@ I believe in the power of collaboration and am open to working with fellow devel
 
 ## Connect with Me
 
-- *Instagram*: aakashwalji(https://www.instagram.com/aakashwalji?igsh=MWV2M2k2bGl4MXdoZA==)
+- Instagram: *@aakashwalji (https://www.instagram.com/aakashwalji?igsh=MWV2M2k2bGl4MXdoZA==)*
 
 Feel free to explore my projects, share feedback, or connect with me. Let's learn and grow together in the dynamic world of web development!
 
