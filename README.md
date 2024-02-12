@@ -2,7 +2,19 @@
 
 # Hi there!
 
-Welcome to my GitHub repository! I'm passionate about web development and on a journey to become a MERN stack developer. Here, you'll find a collection of projects and code snippets showcasing my skills in HTML, CSS, and JavaScript, setting the stage for mastering the MERN (MongoDB, Express.js, React, Node.js) stack.
+I'm a frontend developer passionate about creating elegant and intuitive user interfaces. With a solid foundation in HTML, CSS, JavaScript, and expertise in frameworks like React, along with CSS frameworks like Bootstrap and Tailwind CSS, I bring creativity and functionality to web development projects.
+
+## Skills
+
+### Languages and Frameworks
+- *HTML:* Proficient in creating semantic and accessible markup for web pages.
+- *CSS:* Skilled in styling web applications with CSS, including modern layout techniques like Flexbox and Grid.
+- *JavaScript:* Experienced in writing clean and efficient JavaScript code, with a focus on interactivity and performance.
+- *React:* Proficient in building dynamic and responsive user interfaces using React, including state management with Redux or Context API.
+  
+### CSS Frameworks
+- *Bootstrap:* Experienced in utilizing Bootstrap to create responsive and mobile-first web designs quickly.
+- *Tailwind CSS:* Proficient in using Tailwind CSS for utility-first and customizable styling, providing a unique and consistent design system.
 
 ## Projects
 
@@ -19,22 +31,6 @@ Dive into the world of strategic choices with my Rock Paper Scissors game projec
 Explore the basics of e-commerce with my Amazon Clone, crafted using only HTML and CSS. This simplified rendition brings the essence of Amazon's layout to your browser. The HTML structure provides a foundation for displaying items, while CSS styling ensures a clean and visually appealing user interface. Although lacking advanced functionalities, this project serves as a starting point for understanding the fundamental building blocks of an e-commerce website. Immerse yourself in the familiar look and feel of Amazon as you delve into the world of basic web development. Happy shopping!
 
 *Many more to come...*
-
-## Learning Path
-
-I'm committed to mastering the following technologies:
-
-- *MongoDB*: Delving into NoSQL database concepts, learning to store and retrieve data efficiently.
-- *Express.js*: Building robust backend applications, understanding middleware, and handling HTTP requests.
-- *React*: Crafting interactive and dynamic user interfaces, exploring state management and component lifecycle.
-- *Node.js*: Developing scalable server-side applications, integrating with databases, and managing dependencies.
-
-## Goals
-
-1. *Solidify Fundamentals*: Continuously refining my understanding of HTML, CSS, and JavaScript.
-2. *MERN Mastery*: Striving for proficiency in each layer of the MERN stack to create full-stack applications.
-3. *Project Diversity*: Expanding my portfolio with projects spanning different domains and complexities.
-4. *Collaboration*: Actively seeking collaborative opportunities to enhance teamwork and problem-solving skills.
 
 ## Current Focus
 
