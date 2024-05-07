@@ -15,23 +15,7 @@ I'm a frontend developer passionate about creating elegant and intuitive user in
 ### CSS Frameworks
 - *Bootstrap:* Experienced in utilizing Bootstrap to create responsive and mobile-first web designs quickly.
 - *Tailwind CSS:* Proficient in using Tailwind CSS for utility-first and customizable styling, providing a unique and consistent design system.
-
-## Projects
-
-### 1. *Tic Tac Toe Game*
-
-This classic game is implemented using only HTML, CSS, and JavaScript. Enjoy a clean and intuitive interface as you engage in the timeless battle of Xs and Os. Challenge and test your strategic prowess against your friend. Dive into the source code to explore how the game mechanics come to life using fundamental web technologies. Let the games begin!
-
-### 2. *Rock Paper Scissors Game*
-
-Dive into the world of strategic choices with my Rock Paper Scissors game project. This interactive game is crafted using only HTML, CSS, and JavaScript, offering a seamless and enjoyable experience. Challenge yourself against the computer to see who can master the classic trio of rock, paper, and scissors. The intuitive design ensures easy navigation, while the game logic, powered by JavaScript, adds an element of excitement to each move. Enjoy the simplicity and fun of Rock Paper Scissors brought to life in your browser!
-
-### 3. *Amazon Clone*
-
-Explore the basics of e-commerce with my Amazon Clone, crafted using only HTML and CSS. This simplified rendition brings the essence of Amazon's layout to your browser. The HTML structure provides a foundation for displaying items, while CSS styling ensures a clean and visually appealing user interface. Although lacking advanced functionalities, this project serves as a starting point for understanding the fundamental building blocks of an e-commerce website. Immerse yourself in the familiar look and feel of Amazon as you delve into the world of basic web development. Happy shopping!
-
-*Many more to come...*
-
+  
 ## Current Focus
 
 I'm currently focused on:
