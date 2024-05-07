@@ -40,10 +40,6 @@ I'm currently focused on:
 - *Best Practices Implementation*: Incorporating coding standards, testing, and optimization in my projects.
 - *Advanced Feature Integration*: Exploring advanced features, such as authentication, APIs, and real-time updates.
 
-## Collaboration
-
-I believe in the power of collaboration and am open to working with fellow developers. If you have ideas for collaboration, whether on a project or learning journey, let's connect and create something amazing together.
-
 ## Connect with Me
 
 - Instagram: *@aakashwalji (https://www.instagram.com/aakashwalji?igsh=MWV2M2k2bGl4MXdoZA==)*
